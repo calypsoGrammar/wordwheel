@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "violations": [
+    {
+      "rule": "no-commented-out-code",
+      "path": "src/javascripts/main.js",
+      "subject": "src/javascripts/main.js#NewGame",
+      "detail": "commented-out code: GetWords();"
+    },
+    {
+      "rule": "no-commented-out-code",
+      "path": "src/javascripts/main.js",
+      "subject": "src/javascripts/main.js#RandomCol",
+      "detail": "commented-out code: let r = (Math.floor(Math.random() * 100)) + 100;"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#A",
+      "detail": "function A is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#F",
+      "detail": "function F is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#G",
+      "detail": "function G is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#J",
+      "detail": "function J is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#K",
+      "detail": "function K is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#Me",
+      "detail": "function Me is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#Q",
+      "detail": "function Q is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#T",
+      "detail": "function T is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#V",
+      "detail": "function V is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#Y",
+      "detail": "function Y is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#Z",
+      "detail": "function Z is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ae",
+      "detail": "function ae is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ce",
+      "detail": "function ce is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#de",
+      "detail": "function de is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ee",
+      "detail": "function ee is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#fe",
+      "detail": "function fe is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ge",
+      "detail": "function ge is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#he",
+      "detail": "function he is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#j",
+      "detail": "function j is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#me",
+      "detail": "function me is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ne",
+      "detail": "function ne is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#pe",
+      "detail": "function pe is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#q",
+      "detail": "function q is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#te",
+      "detail": "function te is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ue",
+      "detail": "function ue is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#we",
+      "detail": "function we is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#x",
+      "detail": "function x is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#ye",
+      "detail": "function ye is not used from any other file"
+    },
+    {
+      "rule": "no-unused-code",
+      "path": "dist/assets/index-a7957bf8.js",
+      "subject": "dist/assets/index-a7957bf8.js#z",
+      "detail": "function z is not used from any other file"
+    }
+  ]
+}
